@@ -34,12 +34,12 @@ This project demonstrates an LED sequencing system implemented in Verilog for th
 ## Project Structure
 
 led-blinker-sequence/
-├── blinker.v          # Top-level module
-├── counter.v          # Timing logic and control
-├── decoder.v          # LED decoder logic
-├── blinker_tb.v       # Testbench
-├── README.md          # This file
-├── Lab 2 Report.docx  # Formal documentation
+- blinker.v          # Top-level module
+- counter.v          # Timing logic and control
+- decoder.v          # LED decoder logic
+- blinker_tb.v       # Testbench
+- README.md          # This file
+- Lab 2 Report.docx  # Formal documentation
 
 ## Testbench
 
